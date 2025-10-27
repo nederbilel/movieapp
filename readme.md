@@ -10,11 +10,10 @@ A simple web app to search and explore movies using the OMDb API.
 
 ## Setup
 1. Clone the repository
-2. Replace `YOUR_OMDB_API_KEY` in `script.js` with your OMDb API key
 3. Open `index.html` in your browser
 
 ## Deployment
-Deployed on GitHub Pages: [Live Demo](https://your-username.github.io/movie-explorer/)
+Deployed on GitHub Pages: [Live Demo](https://nederbilel.github.io/movieapp//)
 
 ## Author
-Your Name
+Louati Nader Bilel

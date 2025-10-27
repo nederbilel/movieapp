@@ -44,7 +44,7 @@ Movie Explorer is a web application that allows users to search for movies and v
 - Hosted on **GitHub Pages** for public access.
 - Static deployment; no server-side code required.
 - Repository link: `https://github.com/nederbilel/movieapp.git`
-- Deployed live app: `https://github.com/nederbilel`
+- Deployed live app: `https://nederbilel.github.io/movieapp/`
 
 ---
 
