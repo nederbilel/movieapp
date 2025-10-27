@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Static Movie App</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Static Movie Explorer</h1>
+  <button id="themeToggle">Dark Mode</button>
+</header>
+
+<main>
+  <section id="horrorSection">
+    <h2>Horror Movies</h2>
+    <div class="movie-grid" id="horrorContainer"></div>
+  </section>
+
+  <section id="funnySection">
+    <h2>Funny Movies</h2>
+    <div class="movie-grid" id="funnyContainer"></div>
+  </section>
+</main>
+
+<!-- Modal for movie details -->
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span id="closeModal" class="close">&times;</span>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
